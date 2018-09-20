@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import './App.css';
 import WordCard from './WordCard';
 
-const word = "JavaScript";
+const word = "3SA03";
 class App extends Component {
   render() {
     return (
